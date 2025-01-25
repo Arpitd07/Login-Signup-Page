@@ -57,8 +57,10 @@ project-directory/
 ```
 
 ## Screenshots
-![Login Page](path/to/login-page-screenshot.png)
-![Signup Page](path/to/signup-page-screenshot.png)
+![Login Page](https://github.com/user-attachments/assets/870cb35c-3507-4c29-b19f-6bcb1269ded8)
+
+![Signup Page](https://github.com/user-attachments/assets/9f4ca83f-ffd6-44dd-b493-21849e18bb7f)
+
 
 ## Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request.
